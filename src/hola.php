@@ -7,3 +7,6 @@ class Hola {
         return "Hola Mundo";
     }
 }
+?>
+<h1>Hola desde GitHub</h1>
+
